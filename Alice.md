@@ -11,3 +11,5 @@ Chapter 1
 1-5: Sikka fassa texa rimicu palle kuhla accihe, irrā amana luvu tacmihe. Adi luvu nayiyata ehruyiya bacciye fassa Alis-e ejjina haddandihe ra cā nulma vasapi unsiyāka nayihe.
 
 1-6: Vasa adi nulma nayihe taxlāka cā adi jijacu unsihe. Cā unsihedi fassa cā yinda ajiyapi ra tukuyāka ɣedda ajuyacciya bacciyapi badda fassa ce haddihe. Bāyāka cā yarra ajiya hissihe irrā adi arxa nayihiyata cā mele ɣeddamulu ajandihe. Amana cā vase tiha ajihemaji cā denda tulme ra isante depcidanayi amane exihevemmi eyihe. Denda pālnanayi jā tihāka ɣanamulu ajihe. Cā epnumaji cā tinda depcindata nurihe. Cā amana "veba simma" isanta isihemmi ajihe. Irrā bappācu ɣeddamulu amana haddandihe. Cā yarrāka nayadi ɣāmulu sāllaɣayaccemmi dunjehiyata, epnumaji cā tihāka bā tulme depcidāka ama dāhxihema.
+
+1-7: Alis-a baccihema: "Mulu amacu ayunsunicu ācāka, vabāka vudunsiya mulu adunjehandaccenima! ɣedda hāyuncedi yāni anayunimmi bakkacceve nutāka! Elā nute casata unsiya jā adunjehandaccenima!"
