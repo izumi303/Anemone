@@ -7,6 +7,7 @@ Chapter 1
 1-3: Mulu adi sila ame haddandihe. Ra, ācāka adi bacciyama ra sila bacciyama ili nayu irrā palla “A! A! jija nayaccindani!” hihiyama Alis-a mulu adi sila bakkandihema. Irrā palla Watch-a nuriya sindihema ra ajihema ra hildiheji Alis-a intāka tisadi bennentu palla jā Watch-a ama bennata nuriya sindihemmi jā ajiya turandihemmi bakkuyihe. Ferha baccihiyamata yadiya luma turiyama sisiya miku. Amana nibbacu ledda cā fupnadibā badda kuhlapi enjiya unsihemmi ajihema.
 
 1-4: Amaji karacu Alis-a tukiyama tacmihe ra ɣeddi amanata fupna vircapi ukiya ejjina ce bakkuyu.
+<!-- vircapiよりvirceのほうがいいかも-->
 
 1-5: Sikka fassa texa rimicu palle kuhla accihe, irrā amana luvu tacmihe. Adi luvu nayiyata ehruyiya bacciye fassa Alis-e ejjina haddandihe ra cā nulma vasapi unsiyāka nayihe.
 
