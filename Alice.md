@@ -14,4 +14,5 @@ Chapter 1
 
 1-7: Alis-a baccihe: "Mulu amacu ayunsunicu ācāka, vabāka vudunsiya mulu adunjehandacceni! ɣedda hāyuncedi yāni anayunimmi bakkacceve nutāka! Elā nute casata unsiya jā adunjehandacceni!"
 
-// 1-8: Yarre, yarre, yarre. Haddandāyunce ehra ame? 
+<!-- 1-8: Yarre, yarre, yarre. Haddandāyunce ehra ame? 
+-->
