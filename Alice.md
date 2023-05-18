@@ -2,6 +2,20 @@ Chapter 1
 
 1-1: Alis-a cā repa piflacu vārrāka dāhiya vundamelsicu yānsi nayiya micihe. Bāji calaji cā repa saxihedi isanta ajenjihe irrā takka jā pālna jā ame haddandihe. “Takka jā pālna jā haddandiya, ɣedda vinna haddandunce ame?” Alis-a baccihe.
 
+<!--
+repa  n. 姉
+pifla adj. 近い
+vārra n. 堤防
+dāhu v. 座る
+yānsi adj. 疲れた
+miku v. 始める
+saxu v. 読む
+isu v. 書く
+isanta n. 本
+ajengu v. 覗く
+irrā conj. しかし
+-->
+
 1-2: Ra suga juhiya cā adi mehanga juhiyata, yadiya buriya tunte aga nurāyu adi kayi baccihe. Amaji luvu ɣāja illentu xeha palla cā piflāka sisiya burihe.
 
 1-3: Mulu adi sila ame haddandihe. Ra, ācāka adi bacciya ra sila bacciya ili nayu irrā palla “A! A! jija anayaccindani!” hihiya Alis-a mulu adi sila bakkandihe. Irrā palla Watch-a nuriya sindihe ra ajihe ra hildiheji Alis-a intāka tisihedi bennentu palla jā Watch-a cā bennata nuriya sindihemmi jā ajiya turandihemmi bakkuyihe. Ferha baccihiyata yadiya luma turiya sisiya miku. Amana nibbacu ledda cā fupnadibā badda kuhlapi enjiya unsihemmi ajihe.
@@ -14,5 +28,5 @@ Chapter 1
 
 1-7: Alis-a baccihe: "Mulu amacu ayunsunicu ācāka, vabāka vudunsiya mulu adunjehandacceni! ɣedda hāyuncedi yāni anayunimmi bakkacceve nutāka! Elā nute casata unsiya jā adunjehandacceni!"
 
-<!-- 1-8: Yarre, yarre, yarre. Haddandāyunce ehra ame? 
+<!-- 1-8: Yarre, yarre, yarre. Haddandāyunce ehra ame? "ɣedda bādvutta ayunsāyihenince yupiyapi?" bulji hihe.  
 -->
