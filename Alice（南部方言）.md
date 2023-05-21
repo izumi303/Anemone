@@ -2,7 +2,7 @@ Chapter 1
 
 1-1: Ális-a câ répa pihlacu varrâka dāhiya vundamélsicu yánsi nayiya michi. Bâji calaji câ répa sahhidi isántājenjihi irrâ tákka jā pálna jā 'mapi haddandihi. “Tákka jā pálna jā haddandiya, ɣédda vinna haddándunci amapi?” Ális-a baccihi.
 
-1-2: Rá súga juhya câ ádi mehanga juhyata, yádya búriya túntāga nurāyu ádi kayi baccihi. Ámaji luvu ɣâja illentu xéha palla cā pihlāka sísya burhi.
+1-2: Rá súga juhya câ ádi mehanga juhyata, yádya búriya túntāga nurāyu ádi kayi baccihi. Ámaji luvu ɣâja illentu xéha palla câ pihlāka sísya burhi.
 
 1-3: Mulu adi sila ame haddandihe. Ra, ācāka adi bacciya ra sila bacciya ili nayu irrā palla “A! A! jija anayaccindani!” hihiya Alis-a mulu adi sila bakkandihe. Irrā palla Watch-a nuriya sindihe ra ajihe ra hildiheji Alis-a intāka tisihedi bennentu palla jā Watch-a cā bennata nuriya sindihemmi jā ajiya turandihemmi bakkuyihe. Ferha baccihiyata yadiya luma turiya sisiya miku. Amana nibbacu ledda cā fupnadibā badda kuhlapi enjiya unsihemmi ajihe.
 
