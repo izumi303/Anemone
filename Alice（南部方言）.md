@@ -1,8 +1,8 @@
 Chapter 1
 
-1-1: Ális-a | câ répa píflacu varrâka dâhiya | vundamélsicu yánsi náyiya míchi. Bâji cálaji | câ répa sáhhidi isánta ajénjihi | irrâ | tákka jā | pálna jā amápi haddándihi. “Tákka jā | pálna jā haddándiya, | ɣédda vínna haddándunci amápi?” Ális-a báccihi.
+1-1: Ális-a | câ répa píhlacu varrâka dâhiya | vundamélsicu yánsi náyiya míchi. Bâji cálaji | câ répa sáhhidi isánta ajénjihi | irrâ | tákka jā | pálna jā amápi haddándihi. “Tákka jā | pálna jā haddándiya, | ɣédda vínna haddándunci amápi?” Ális-a báccihi.
 
-1-2: Rá | súga júhya | câ ádi mehánga júhyata, yádya búriya túnte ága nurâyu | ádi kayí báccihi. Amaji luvu ɣāja illentu xeha palla cā piflāka sisiya burihe.
+1-2: Rá | súga júhya | câ ádi mehánga júhyata, yádya búriya túnta ága nurâyu | ádi kayí báccihi. Amaji luvu ɣāja illentu xeha palla cā piflāka sisiya burihe.
 
 1-3: Mulu adi sila ame haddandihe. Ra, ācāka adi bacciya ra sila bacciya ili nayu irrā palla “A! A! jija anayaccindani!” hihiya Alis-a mulu adi sila bakkandihe. Irrā palla Watch-a nuriya sindihe ra ajihe ra hildiheji Alis-a intāka tisihedi bennentu palla jā Watch-a cā bennata nuriya sindihemmi jā ajiya turandihemmi bakkuyihe. Ferha baccihiyata yadiya luma turiya sisiya miku. Amana nibbacu ledda cā fupnadibā badda kuhlapi enjiya unsihemmi ajihe.
 
