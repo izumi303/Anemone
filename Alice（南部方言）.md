@@ -4,7 +4,7 @@ Chapter 1
 
 1-2: Rá súga juhya câ ádi mehanga juhyata, yádya búriya túntāga nurāyu ádi kayi baccihi. Ámaji luvu ɣâja illentu xéha palla câ pihlāka sísya burhi.
 
-1-3: Mulu adi sila ame haddandihe. Ra, ācāka adi bacciya ra sila bacciya ili nayu irrā palla “A! A! jija anayaccindani!” hihiya Alis-a mulu adi sila bakkandihe. Irrā palla Watch-a nuriya sindihe ra ajihe ra hildiheji Alis-a intāka tisihedi bennentu palla jā Watch-a cā bennata nuriya sindihemmi jā ajiya turandihemmi bakkuyihe. Ferha baccihiyata yadiya luma turiya sisiya miku. Amana nibbacu ledda cā fupnadibā badda kuhlapi enjiya unsihemmi ajihe.
+1-3: Múlu ádi síla jula amápi haddandihi. Ra, ācāka adi bacciya ra sila bacciya ili nayu irrā palla “A! A! jija anayaccindani!” hihiya Alis-a mulu adi sila bakkandihe. Irrā palla Watch-a nuriya sindihe ra ajihe ra hildiheji Alis-a intāka tisihedi bennentu palla jā Watch-a cā bennata nuriya sindihemmi jā ajiya turandihemmi bakkuyihe. Ferha baccihiyata yadiya luma turiya sisiya miku. Amana nibbacu ledda cā fupnadibā badda kuhlapi enjiya unsihemmi ajihe.
 
 1-4: Amaji karacu Alis-a tukiya tacmihe ra ɣeddi amanata fupna virce ukiya ejjina ce bakkuyu.
 
