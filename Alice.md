@@ -14,9 +14,31 @@ isu v. 書く
 isanta n. 本
 ajengu v. 覗く
 irrā conj. しかし
+takka n. 会話
+pālna n. 絵
+vinna n. 取り扱い、意味
+bakku v. 考える
 -->
 
 1-2: Ra suga juhiya cā adi mehanga juhiyata, yadiya buriya tunte aga nurāyu adi kayi baccihe. Amaji luvu ɣāja illentu xeha palla cā piflāka sisiya burihe.
+
+<!--
+ra conj. そして
+suga adj. 暑い
+juhu v. 来る、なる
+adi adv. とても
+mehanga adj. 眠い
+yadu v. 立つ
+nuru v. 取る
+kaya n. 力
+luvu adv. 突然
+ɣāja adj. 赤い
+illa n. 目
+xeha adj. 白い
+palla n. うさぎ
+sisu v. 走る
+buru v. 行く
+-->
 
 1-3: Mulu adi sila ame haddandihe. Ra, ācāka adi bacciya ra sila bacciya ili nayu irrā palla “A! A! jija anayaccindani!” hihiya Alis-a mulu adi sila bakkandihe. Irrā palla Watch-a nuriya sindihe ra ajihe ra hildiheji Alis-a intāka tisihedi bennentu palla jā Watch-a cā bennata nuriya sindihemmi jā ajiya turandihemmi bakkuyihe. Ferha baccihiyata yadiya luma turiya sisiya miku. Amana nibbacu ledda cā fupnadibā badda kuhlapi enjiya unsihemmi ajihe.
 
@@ -28,5 +50,5 @@ irrā conj. しかし
 
 1-7: Alis-a baccihe: "Mulu amacu ayunsunicu ācāka, vabāka vudunsiya mulu adunjehandacceni! ɣedda hāyuncedi yāni anayunimmi bakkacceve nutāka! Elā nute casata unsiya jā adunjehandacceni!"
 
-<!-- 1-8: Yarre, yarre, yarre. Haddandāyunce ehra ame? "ɣedda bādvutta ayunsāyihenince yupiyapi?" bulji hihe.  
+<!-- 1-8: Yarre, yarre, yarre. Haddandāyunce ehra ame? "ɣedda bādvutta ayunsāyihenince yupiyapi?" bulji hihe. Neneye nute sele vuna pifla exxapi acilindani. 
 -->
