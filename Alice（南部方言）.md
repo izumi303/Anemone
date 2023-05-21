@@ -1,6 +1,6 @@
 Chapter 1
 
-1-1: Ális-a câ répa pihlacu varrâka dahiya vundamélsicu yánsi nayiya michi. Bâji calaji câ répa sahhidi isántājenjihi irrâ tákka jā pálna jā 'mapi haddandihi. “Tákka jā pálna jā haddandiya, ɣédda vinna haddándunci amapi?” Ális-a baccihi.
+1-1: Ális-a câ répa pihlacu varrâka dāhiya vundamélsicu yánsi nayiya michi. Bâji calaji câ répa sahhidi isántājenjihi irrâ tákka jā pálna jā 'mapi haddandihi. “Tákka jā pálna jā haddandiya, ɣédda vinna haddándunci amapi?” Ális-a baccihi.
 
 1-2: Rá súga juhya câ ádi mehanga juhyata, yádya búriya túntāga nurāyu ádi kayi baccihi. Ámaji luvu ɣâja illentu xéha palla cā pihlāka sísya burhi.
 
